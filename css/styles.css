@@ -56,19 +56,13 @@ font-family: 'Poiret One', cursive;
 		font-family: 'Marck Script', cursive;
 font-family: 'Cormorant Infant', serif;
 	*/
+
 .block_center {
-    width: 250px;
-    height: 250px;
     position: absolute;
     top: 50%;
     left: 50%;
-    margin: -125px 0 0 -125px;
-    
-    img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin: 0 auto;
-        border: none;
-    }
-}	
+    margin: 0 0 0 -125px;
+	border-bottom:2px solid #286DA8;
+	padding:10px;
+ }
+.btn-group{ margin-top:10px; }
