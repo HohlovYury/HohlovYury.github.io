@@ -28,8 +28,8 @@
 <div class="btn-group">
   <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">choose homework<span class="caret"></span></button>
   <ul class="dropdown-menu" role="menu">
-    <li><a href="?hw=resume">resume</a></li>
-    <li><a href="#">next homework</a></li>
+    <li><a href="">resume</a></li>
+    <li><a href="https://github.com/HohlovYury/homeworks/tree/master/resume" target="_blank">resume git</a></li>
     <li><a href="#">next homework</a></li>
     <li class="divider"></li>
     <li><a href="#">next homework</a></li>
